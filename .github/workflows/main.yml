@@ -8,7 +8,6 @@ jobs:
     First:
       name: install_angular
       uses: bitovi/github-actions-angular-to-github-pages@v1.0.0
-        with: v1.0.0
         
   
       
